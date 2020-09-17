@@ -2,4 +2,4 @@
 /apis/trips/ @andresravinet
 /apis/user-java/ @andresravinet
 /apis/userprofile/ @andresravinet
-docs/* @andresravinet
+* @andresravinet
